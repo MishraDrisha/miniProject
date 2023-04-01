@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+}
+p {
+    border: 2px solid white ;
+    width:auto; 
+    height:auto;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:bold;
+    font-style: italic;
+    color: gray; 
+}
